@@ -1,5 +1,7 @@
 # Griphook - A Secure CLI Password Manager
 
+> Griphook - the goblin with the keys 
+
 Griphook is a command-line interface (CLI) password manager designed for security and simplicity. It allows you to securely store, retrieve, list, and remove your passwords directly from your terminal.
 
 ## How it Works
